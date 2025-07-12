@@ -591,7 +591,7 @@ loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\
 end)
 
 about:Button("R飞行",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/odhdshhe/-V3.0/refs/heads/main/%E9%A3%9E%E8%A1%8C%E8%84%9A%E6%9C%ACV3(%E5%85%A8%E6%B8%B8%E6%88%8F%E9%80%9A%E7%94%A8)%20(1).txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RR666-AAA/R/refs/heads/main/%E9%A3%9E%E8%A1%8CR%E8%84%9A%E6%9C%AC.lua?token=GHSAT0AAAAAADHGNC3IQ4RKUZAJMJRSYNAK2DRH7KA"))();
 end)
 
 local about = UITab6:section("『剩下懒得排了』",true)
